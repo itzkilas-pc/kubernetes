@@ -1,0 +1,15 @@
+Commands for kubernetes
+
+Will be using kubectlL:
+
+kubectl get nodes
+ -
+
+kubectl get pods
+ -
+
+kubectl get services
+ -
+
+kubectl create
+ - 

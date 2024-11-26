@@ -1,6 +1,6 @@
 Commands for kubernetes
 
-Will be using kubectlL:
+Will be using kubectl:
 
 kubectl get nodes
  -
